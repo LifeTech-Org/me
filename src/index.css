@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .article ul {
+    @apply list-disc ml-4;
+  }
+  .article ol {
+    @apply list-decimal ml-4;
+  }
+  .article a {
+    @apply underline text-teal-400;
+  }
+}
