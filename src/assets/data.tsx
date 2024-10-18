@@ -6,6 +6,26 @@ import GoogleIcon from "@mui/icons-material/Google";
 import CallRoundedIcon from "@mui/icons-material/CallRounded";
 const projects = [
   {
+    date: "August, 2024",
+    title: "PowerDFI",
+    text: "As the front-end lead at PowerDfi, I was in charge of building and refining the user interface, ensuring the platform was accessible and user-friendly. I worked alongside the development and design teams to create seamless, secure, and intuitive experiences for users navigating blockchain-based financial services. My role involved optimizing the UI for performance and scalability, while also ensuring that it supported PowerDfi's mission of creating a more equitable financial system for individuals, families, and communities.",
+    url: "https://powerdfi.com/",
+    img: {
+      src: "https://dev.powerdfi.com/_next/image?url=%2Flogo.png&w=256&q=75",
+      alt: "keiji akaashi",
+    },
+  },
+  {
+    date: "September, 2023",
+    title: "Berrystamp",
+    text: "As the front-end lead at Berrystamp, I was responsible for driving the development of user-facing features, making sure the platform was both visually engaging and easy to use. I worked closely with designers and backend teams to ensure a smooth and intuitive user experience, helping artists and entrepreneurs bring their ideas to life through high-quality products. My focus was on performance optimization, maintaining a clean and scalable codebase, and ensuring everything worked seamlessly across different browsers and devices.",
+    url: "https://berrystamp.netlify.app/",
+    img: {
+      src: "https://berrystamp.netlify.app/logo.png",
+      alt: "keiji akaashi",
+    },
+  },
+  {
     date: "April 24, 2023",
     title: "Fispawn",
     text: "Fispawn is an online multiplayer Woordle game where you can challenge your friends and see who can deduce the five letter English word whose definition has been revealed. It has very simple and yet classy dedesign. It's super easy to use and even fun when playing Solo. Its' my latest work, you should check it out and play even.",
